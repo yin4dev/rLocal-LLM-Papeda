@@ -3,7 +3,8 @@ Local LLM using R Shiny and ollama. The lite version of rLocal-LLM-Pomelo. This 
 
 ---
 
-Welcome to **rLocal-LLM-Papeda v0.1**! This open-source Shiny application provides an interactive interface to converse with local Large Language Models (LLMs) while integrating retrieval-augmented generation (RAG) and file upload capabilities. The app is designed to be easily portable and customizable, allowing you to switch between various assistant identities to suit your specific needs.
+Welcome to **rLocal-LLM-Papeda**! This is a lite version of **rLocal-LLM-Pomelo**, which has full functions such as RAG, multi-coversations, database persistence. (https://github.com/yin4dev/rLocal-LLM-Pomelo.git)
+This **rLocal-LLM-Papeda** open-source Shiny application provides an interactive interface to converse with local Large Language Models (LLMs) while integrating file upload capabilities. The app is designed to be easily portable and customizable, which is easy to modify to fit in your existing app. The app allows you to switch between various assistant identities to suit your specific needs.
 
 ---
 
