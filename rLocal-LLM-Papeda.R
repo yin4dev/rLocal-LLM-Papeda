@@ -130,7 +130,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       selectInput("model", "Select LLM Model", 
-                  choices = c("llama3.2:1b", "llama3.2:3b", "llama3.2-vision:latest", "deepseek-r1:8b")),
+                  choices = c("llama3.2:1b", "llama3.2:3b", "deepseek-r1:8b")),
       actionButton("newChat", "New Chat"),
       downloadButton("downloadHistory", "Download Chat History"),
       hr(),
