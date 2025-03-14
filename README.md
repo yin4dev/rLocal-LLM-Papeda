@@ -1,7 +1,7 @@
 # rLocal-LLM-Papeda
 Local LLM using R Shiny and ollama. The lite version of rLocal-LLM-Pomelo. This "Papeda" is very suitable for inserting into your existing Shiny App to achieve the Local LLM function.
 
-(This app is part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
+(This app is a part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
 
 ---
 
